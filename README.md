@@ -5,16 +5,12 @@ git clone https://github.com/HLoTW/OpChile
 ```
 and then go to repo directory using `cd` command and then run any tool of them using python interpreter.
 
-
-#    /$$$$$$   /$$$$$$              /$$  
-#   /$$__  $$ /$$$_  $$           /$$$$  
-#  | $$  \__/| $$$$\ $$ /$$   /$$|_  $$  
-#  |  $$$$$$ | $$ $$ $$| $$  | $$  | $$  
-#   \____  $$| $$\ $$$$| $$  | $$  | $$  
-#   /$$  \ $$| $$ \ $$$| $$  | $$  | $$  
-#  |  $$$$$$/|  $$$$$$/|  $$$$$$/ /$$$$$$
-#   \______/  \______/  \______/ |______/                                   
-
+     _____  ___       __ 
+    / ____|/ _ \     /_ |
+   | (___ | | | |_   _| |
+    \___ \| | | | | | | |
+    ____) | |_| | |_| | |
+   |_____/ \___/ \__,_|_|
 
 #OpChile Final Stage 
 #Op #Anonymous #Leaked #Deface #DDoS #DoS #S0u1 
